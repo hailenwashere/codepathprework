@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 - [x] **At least five content creators are displayed on the homepage of the app**
 - [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
 - [?] **API calls use the async/await design pattern via Axios or fetch()**
-  - note that in the WEB103 Preword Slack, when someone asked if they were supposed to use Axios or fetch(), a user named Anuj Adulla sent "I had already submitted a request to see if this could be updated but I never received a response. Your implementation does work though, my prework for Web103 was accepted and I used the same code as you, I didn't use any other APIs or Axios". 
+  - note that in the WEB103 Preword Slack, when someone asked if they were supposed to use Axios or fetch() instead of Supabase API, a user named Anuj Adulla sent "I had already submitted a request to see if this could be updated {using Supabase API instead} but I never received a response. Your implementation does work though, my prework for Web103 was accepted and I used the same code as you, I didn't use any other APIs or Axios". 
   - Since the prework required Supabase to be used, with comes with its own API calls, I did not find it necessary to use Axios/fetch()
 - [x] **Clicking on a content creator item takes the user to their details page, which includes their name, url, and description**
 - [x] **Each content creator has their own unique URL**- [ ] **The user can edit a content creator to change their name, url, or description**
