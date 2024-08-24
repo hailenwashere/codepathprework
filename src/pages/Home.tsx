@@ -8,8 +8,8 @@ interface Creator {
 }
 const Home = ({creatorData}: {creatorData: Creator[]}) => {
     return ( <>
-        <h1>Home</h1>
-        <a href="addcreator">Add a Creator!</a>
+        <h1>Welcome to CreatorVerse! ✧*.◟(ˊᗨˋ)◞.*✧</h1>
+        <button onClick={() => window.location.href = '/addcreator'}>Add a Creator!</button>
         <ShowCreators creatorData={creatorData}/>
     </> );
 }
