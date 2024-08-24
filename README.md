@@ -39,7 +39,19 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='src/assets/walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+**part 1**
+👉🏿<img src='src/assets/walkthroughp1.gif' title='Video Walkthrough p1' width='' alt='Video Walkthrough p1' />
+- welcome to creatorverse! check out these 6 creators that are already in the web application
+- we can view individual creators pages
+- editing sydney's description to be more descriptive... it shows up on the home page too!
+- each creator has their own unique /creators/id page
+
+**part 2**
+👉🏿<img src='src/assets/walkthroughp2.gif' title='Video Walkthrough p2' width='' alt='Video Walkthrough p2' />
+- more unique links for each creator
+- deleting sydney's entry... her card is no longer on the home page :(
+- putting sydney back by adding a new entry! the new card shows up on the home page automatically :)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 MacOS Screen Recording and [EZgif](https://ezgif.com/)
